@@ -1,3 +1,13 @@
 remote_theme: pmarsceill/just-the-docs
 
+aux_links:
+  "Email Me":
+  - "mailto:dylanfrankcolli@gmail.com"
+  "My GitHub":
+  - "http://github.com/dcolli23"
+  "My LinkedIn":
+  - "http://www.linkedin.com/in/dylan-colli"
+
 title: The Colli Portfolio
+
+# color_scheme: "dark"
