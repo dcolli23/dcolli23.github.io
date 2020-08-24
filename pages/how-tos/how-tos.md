@@ -11,4 +11,6 @@ You can find the how-to pages that I and others have worked on at the following 
 
 + [Python](http://dcolli23.github.io/howtos_Python)
 + [GitHub](http://dcolli23.github.io/howtos_GitHub)
++ [Linux](http://dcolli23.github.io/howtos_Linux)
++ [Google Glass Development](http://dcolli23.github.io/howtos_glass)
 + [JSON](http://dcolli23.github.io/howtos_json)
