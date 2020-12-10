@@ -58,3 +58,9 @@ These projects are all ones that I developed in my own time, either for fun, to 
 
 The idea for Ingreedyents hit me when I was walking through the aisles one day at Kroger. I thought wouldn't it be great if we could combine a UPC scanner with recipe nutrient tracking (macro- and micro-nutrients) and potentially recipe-to-availabe-ingredient matching? I played around with this for some time and have since developed [Ingreedyents](ingreedyents/ingreedyents.md). 
 
+### uniTypes
+
+When working on [Ingreedyents](#ingreedyents), I needed a way to conveniently handle units and conversions between units of food, macronutrients, and micronutrients that I was handling for the nutrition information of the recipes. Out of this necessity, [uniTypes](http://github.com/dcolli23/uniTypes) was born.
+
+uniTypes is a header only implementation of a unit library based initially on [this writeup](https://benjaminjurke.com/content/articles/2015/compile-time-numerical-unit-dimension-checking/) but eventually growing into its own library, owing mostly to the need for a string-to-unit type map. uniTypes is convenient to use thanks to the use of user-defined literals for type specification.
+
