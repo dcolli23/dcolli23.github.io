@@ -10,6 +10,7 @@ Throughout the time I've worked on developing software, I've accrued some helpfu
 You can find the how-to pages that I and others have worked on at the following links:
 
 + [Python](http://dcolli23.github.io/howtos_Python)
++ [C++](http://dcolli23.github.io/howtos_Cpp)
 + [GitHub](http://dcolli23.github.io/howtos_GitHub)
 + [Linux](http://dcolli23.github.io/howtos_Linux)
 + [Google Glass Development](http://dcolli23.github.io/howtos_glass)
