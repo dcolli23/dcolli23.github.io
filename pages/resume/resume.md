@@ -12,5 +12,5 @@ You can see a preview of my resume below:
 
 <!-- This seems to dependably do the trick. Defaults to google's viewer if not pdf viewer installed in browser (which seems to be the case for me?) -->
 <object data="resume_files/dylan_colli_resume_20231012.pdf" type="application/pdf">
-    <iframe src="https://docs.google.com/viewer?url=https://dcolli23.github.io/pages/resume/resume_files/dylan_colli_resume.pdf&embedded=true" height="800" width="850"></iframe>
+    <iframe src="https://docs.google.com/viewer?url=https://dcolli23.github.io/pages/resume/resume_files/dylan_colli_resume_20231012.pdf&embedded=true" height="800" width="850"></iframe>
 </object>
