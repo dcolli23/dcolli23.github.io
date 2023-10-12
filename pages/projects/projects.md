@@ -48,6 +48,8 @@ The Kekenes-Huskey lab moved to Loyola University in Chicago and I had personal 
 
 #### FiberSim Blender Visualization
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LMyyscEcL6I?si=kY3hjCLI_CyCN0Iu&amp;start=18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 [FiberSim Blender visualization pipeline.](fibersim_blender_visualization/fibersim_blender_visualization.md)
 
 ## Hobby Projects
@@ -56,7 +58,7 @@ These projects are all ones that I developed in my own time, either for fun, to 
 
 ### Ingreedyents
 
-The idea for Ingreedyents hit me when I was walking through the aisles one day at Kroger. I thought wouldn't it be great if we could combine a UPC scanner with recipe nutrient tracking (macro- and micro-nutrients) and potentially recipe-to-availabe-ingredient matching? I played around with this for some time and have since developed [Ingreedyents](ingreedyents/ingreedyents.md). 
+The idea for Ingreedyents hit me when I was walking through the aisles one day at Kroger. I thought wouldn't it be great if we could combine a UPC scanner with recipe nutrient tracking (macro- and micro-nutrients) and potentially recipe-to-availabe-ingredient matching? I played around with this for some time and have since developed [Ingreedyents](ingreedyents/ingreedyents.md).
 
 ### uniTypes
 

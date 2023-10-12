@@ -12,5 +12,8 @@ Prior to the University of Michigan, I worked as an algorithm engineer in the ta
 
 I received my B.S. in Chemical Engineering from the University of Kentucky where I worked in the labs of [Peter Kekenes-Huskey](https://pkhlab.sites.luc.edu/people.html) and [Ken Campbell](https://medicine.uky.edu/users/kscamp3), focused on applications of computer vision and multi-scale modelling towards the advancement of heart disease research.
 
-You can get to know my work through the [Projects](pages/projects/projects.md) link.
+You can get to know my work through the [Projects](pages/projects/projects.md) link where you can find some (hopefully) interesting visualizations of things I've workd on in the past, like the video below:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LMyyscEcL6I?si=kY3hjCLI_CyCN0Iu&amp;start=18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 You can also follow this link to find my most recent [Resume](pages/resume/resume.md)<!-- and CV-->.
